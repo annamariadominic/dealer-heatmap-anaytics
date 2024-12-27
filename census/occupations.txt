@@ -1,0 +1,178 @@
+47-0000	Construction and Extraction Occupations
+47-1000	Supervisors of Construction and Extraction Workers
+47-1010	First-Line Supervisors of Construction Trades and Extraction Workers
+47-1011	First-Line Supervisors of Construction Trades and Extraction Workers
+47-2000	Construction Trades Workers
+47-2010	Boilermakers
+47-2011	Boilermakers
+47-2020	Brickmasons, Blockmasons, and Stonemasons
+47-2021	Brickmasons and Blockmasons
+47-2022	Stonemasons
+47-2030	Carpenters
+47-2031	Carpenters
+47-2040	Carpet, Floor, and Tile Installers and Finishers
+47-2041	Carpet Installers
+47-2042	Floor Layers, Except Carpet, Wood, and Hard Tiles
+47-2043	Floor Sanders and Finishers
+47-2044	Tile and Stone Setters
+47-2050	Cement Masons, Concrete Finishers, and Terrazzo Workers
+47-2051	Cement Masons and Concrete Finishers
+47-2053	Terrazzo Workers and Finishers
+47-2060	Construction Laborers
+47-2061	Construction Laborers
+47-2070	Construction Equipment Operators
+47-2071	Paving, Surfacing, and Tamping Equipment Operators
+47-2072	Pile Driver Operators
+47-2073	Operating Engineers and Other Construction Equipment Operators
+47-2080	Drywall Installers, Ceiling Tile Installers, and Tapers
+47-2081	Drywall and Ceiling Tile Installers
+47-2082	Tapers
+47-2110	Electricians
+47-2111	Electricians
+47-2120	Glaziers
+47-2121	Glaziers
+47-2130	Insulation Workers
+47-2131	Insulation Workers, Floor, Ceiling, and Wall
+47-2132	Insulation Workers, Mechanical
+47-2140	Painters and Paperhangers
+47-2141	Painters, Construction and Maintenance
+47-2142	Paperhangers
+47-2150	Pipelayers, Plumbers, Pipefitters, and Steamfitters
+47-2151	Pipelayers
+47-2152	Plumbers, Pipefitters, and Steamfitters
+47-2160	Plasterers and Stucco Masons
+47-2161	Plasterers and Stucco Masons
+47-2170	Reinforcing Iron and Rebar Workers
+47-2171	Reinforcing Iron and Rebar Workers
+47-2180	Roofers
+47-2181	Roofers
+47-2210	Sheet Metal Workers
+47-2211	Sheet Metal Workers
+47-2220	Structural Iron and Steel Workers
+47-2221	Structural Iron and Steel Workers
+47-2230	Solar Photovoltaic Installers
+47-2231	Solar Photovoltaic Installers
+47-3000	Helpers, Construction Trades
+47-3010	Helpers, Construction Trades
+47-3011	Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters
+47-3012	Helpers--Carpenters
+47-3013	Helpers--Electricians
+47-3014	Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons
+47-3015	Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters
+47-3016	Helpers--Roofers
+47-3019	Helpers, Construction Trades, All Other
+47-4000	Other Construction and Related Workers
+47-4010	Construction and Building Inspectors
+47-4011	Construction and Building Inspectors
+47-4020	Elevator and Escalator Installers and Repairers
+47-4021	Elevator and Escalator Installers and Repairers
+47-4030	Fence Erectors
+47-4031	Fence Erectors
+47-4040	Hazardous Materials Removal Workers
+47-4041	Hazardous Materials Removal Workers
+47-4050	Highway Maintenance Workers
+47-4051	Highway Maintenance Workers
+47-4060	Rail-Track Laying and Maintenance Equipment Operators
+47-4061	Rail-Track Laying and Maintenance Equipment Operators
+47-4070	Septic Tank Servicers and Sewer Pipe Cleaners
+47-4071	Septic Tank Servicers and Sewer Pipe Cleaners
+47-4090	Miscellaneous Construction and Related Workers
+47-4090	Miscellaneous Construction and Related Workers
+47-5000	Extraction Workers
+47-5010	Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas
+47-5011	Derrick Operators, Oil and Gas
+47-5012	Rotary Drill Operators, Oil and Gas
+47-5013	Service Unit Operators, Oil and Gas
+47-5020	Surface Mining Machine Operators and Earth Drillers
+47-5022	Excavating and Loading Machine and Dragline Operators, Surface Mining
+47-5023	Earth Drillers, Except Oil and Gas
+47-5030	Explosives Workers, Ordnance Handling Experts, and Blasters
+47-5032	Explosives Workers, Ordnance Handling Experts, and Blasters
+47-5040	Underground Mining Machine Operators
+47-5041	Continuous Mining Machine Operators
+47-5043	Roof Bolters, Mining
+47-5044	Loading and Moving Machine Operators, Underground Mining
+47-5049	Underground Mining Machine Operators, All Other
+47-5050	Rock Splitters, Quarry
+47-5051	Rock Splitters, Quarry
+47-5070	Roustabouts, Oil and Gas
+47-5071	Roustabouts, Oil and Gas
+47-5080	Helpers--Extraction Workers
+47-5081	Helpers--Extraction Workers
+47-5090	Miscellaneous Extraction Workers
+47-5099	Extraction Workers, All Other
+49-0000	Installation, Maintenance, and Repair Occupations
+49-1000	Supervisors of Installation, Maintenance, and Repair Workers
+49-1010	First-Line Supervisors of Mechanics, Installers, and Repairers
+49-1011	First-Line Supervisors of Mechanics, Installers, and Repairers
+49-2000	Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+49-2010	Computer, Automated Teller, and Office Machine Repairers
+49-2011	Computer, Automated Teller, and Office Machine Repairers
+49-2020	Radio and Telecommunications Equipment Installers and Repairers
+49-2021	Radio, Cellular, and Tower Equipment Installers and Repairers
+49-2022	Telecommunications Equipment Installers and Repairers, Except Line Installers
+49-2090	Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers
+49-2091	Avionics Technicians
+49-2092	Electric Motor, Power Tool, and Related Repairers
+49-2093	Electrical and Electronics Installers and Repairers, Transportation Equipment
+49-2094	Electrical and Electronics Repairers, Commercial and Industrial Equipment
+49-2095	Electrical and Electronics Repairers, Powerhouse, Substation, and Relay
+49-2096	Electronic Equipment Installers and Repairers, Motor Vehicles
+49-2097	Audiovisual Equipment Installers and Repairers
+49-2098	Security and Fire Alarm Systems Installers
+49-3000	Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
+49-3010	Aircraft Mechanics and Service Technicians
+49-3011	Aircraft Mechanics and Service Technicians
+49-3020	Automotive Technicians and Repairers
+49-3021	Automotive Body and Related Repairers
+49-3022	Automotive Glass Installers and Repairers
+49-3023	Automotive Service Technicians and Mechanics
+49-3030	Bus and Truck Mechanics and Diesel Engine Specialists
+49-3031	Bus and Truck Mechanics and Diesel Engine Specialists
+49-3040	Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics
+49-3041	Farm Equipment Mechanics and Service Technicians
+49-3042	Mobile Heavy Equipment Mechanics, Except Engines
+49-3043	Rail Car Repairers
+49-3050	Small Engine Mechanics
+49-3051	Motorboat Mechanics and Service Technicians
+49-3052	Motorcycle Mechanics
+49-3053	Outdoor Power Equipment and Other Small Engine Mechanics
+49-3090	Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers
+49-3091	Bicycle Repairers
+49-3092	Recreational Vehicle Service Technicians
+49-3093	Tire Repairers and Changers
+49-9000	Other Installation, Maintenance, and Repair Occupations
+49-9010	Control and Valve Installers and Repairers
+49-9011	Mechanical Door Repairers
+49-9012	Control and Valve Installers and Repairers, Except Mechanical Door
+49-9020	Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+49-9021	Heating, Air Conditioning, and Refrigeration Mechanics and Installers
+49-9030	Home Appliance Repairers
+49-9031	Home Appliance Repairers
+49-9040	Industrial Machinery Installation, Repair, and Maintenance Workers
+49-9041	Industrial Machinery Mechanics
+49-9043	Maintenance Workers, Machinery
+49-9044	Millwrights
+49-9045	Refractory Materials Repairers, Except Brickmasons
+49-9050	Line Installers and Repairers
+49-9051	Electrical Power-Line Installers and Repairers
+49-9052	Telecommunications Line Installers and Repairers
+49-9060	Precision Instrument and Equipment Repairers
+49-9061	Camera and Photographic Equipment Repairers
+49-9062	Medical Equipment Repairers
+49-9063	Musical Instrument Repairers and Tuners
+49-9064	Watch and Clock Repairers
+49-9069	Precision Instrument and Equipment Repairers, All Other
+49-9070	Maintenance and Repair Workers, General
+49-9071	Maintenance and Repair Workers, General
+49-9080	Wind Turbine Service Technicians
+49-9081	Wind Turbine Service Technicians
+49-9090	Miscellaneous Installation, Maintenance, and Repair Workers
+49-9091	Coin, Vending, and Amusement Machine Servicers and Repairers
+49-9092	Commercial Divers
+49-9094	Locksmiths and Safe Repairers
+49-9095	Manufactured Building and Mobile Home Installers
+49-9096	Riggers
+49-9097	Signal and Track Switch Repairers
+49-9098	Helpers--Installation, Maintenance, and Repair Workers
+49-9099	Installation, Maintenance, and Repair Workers, All Other
